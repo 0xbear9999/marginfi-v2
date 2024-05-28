@@ -18,7 +18,7 @@ cfg_if::cfg_if! {
     } else if #[cfg(feature = "devnet")] {
         declare_id!("neetcne3Ctrrud7vLdt2ypMm21gZHGN2mCmqWaMVcBQ");
     } else {
-        declare_id!("Mfi1111111111111111111111111111111111111111");
+        declare_id!("neetcne3Ctrrud7vLdt2ypMm21gZHGN2mCmqWaMVcBQ");
     }
 }
 

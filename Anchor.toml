@@ -6,8 +6,12 @@ seeds = true
 skip-lint = false
 
 [programs.localnet]
-marginfi = "Mfi1111111111111111111111111111111111111111"
-liquidity_incentive_program = "Lip1111111111111111111111111111111111111111"
+marginfi = "neetcne3Ctrrud7vLdt2ypMm21gZHGN2mCmqWaMVcBQ"
+liquidity_incentive_program = "sexyDKo4Khm38YdJeiRdNNd5aMQqNtfDkxv7MnYNFeU"
+
+[programs.devnet]
+marginfi = "neetcne3Ctrrud7vLdt2ypMm21gZHGN2mCmqWaMVcBQ"
+liquidity_incentive_program = "sexyDKo4Khm38YdJeiRdNNd5aMQqNtfDkxv7MnYNFeU"
 
 [programs.mainnet]
 marginfi = "MFv2hWf31Z9kbCa1snEPYctwafyhdvnV7FZnsebVacA"
